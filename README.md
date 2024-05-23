@@ -69,5 +69,9 @@ La solution proposée est la mise en place d'Azure Sentinel, un SIEM natif du cl
 ## Conclusion
 En suivant ces étapes, Azure Sentinel est déployé et configuré pour surveiller l'activité des services, détecter les menaces et automatiser les réponses aux incidents. Cette solution améliore la posture de sécurité de l'entreprise et réduit le temps de réponse aux incidents de sécurité.
 
+## Ressources :
+
+[SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=RoZeVbbZ0o0)
+
 ## Réflexion
 L'implémentation d'Azure Sentinel a montré son efficacité pour renforcer la sécurité de l'infrastructure en offrant une vue centralisée et des capacités d'analyse avancées. À l'avenir, il serait bénéfique d'explorer davantage l'intégration avec d'autres outils de sécurité et de continuer à affiner les règles d'analyse pour s'adapter aux nouvelles menaces et aux changements de l'environnement. L'automatisation des réponses aux incidents peut également être étendue pour couvrir davantage de scénarios et améliorer encore la réactivité aux incidents de sécurité.
